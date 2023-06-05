@@ -5,7 +5,7 @@
 <p align="left">
 - 🌱 I’m currently learning **.Net, Android**
 
-- 👨‍💻 All of my projects are available at [https://ajdinpipo.vercel.app/](https://ajdinpipo.vercel.app/)
+- 👨‍💻 You can visit my portfolio at [https://ajdinpipo.vercel.app/](https://ajdinpipo.vercel.app/)
 
 - 💬 Ask me about **Django, Nest.js, Spring Boot, Asp.Net Core, Next.js**
 
