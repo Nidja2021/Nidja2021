@@ -39,4 +39,6 @@
 
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidja2021&show_icons=true&locale=en&layout=compact" alt="nidja2021" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidja2021&show_icons=true&locale=en&layout=compact" alt="nidja2021" />
+</p>
