@@ -2,7 +2,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="banner-image" >
 </p>
 
-<h2> Hi I'm Ajdin Pipo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> / Full Stack Developer </h2>
+<h2> Hi, I'm Ajdin Pipo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> / Full Stack Developer </h2>
 
 
 # 💫 About Me:
