@@ -33,7 +33,6 @@ A Full Stack Developer with a passion for creating web applications. My expertis
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidja2021&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-<p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidja2021&theme=dark&hide_border=false"></p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
