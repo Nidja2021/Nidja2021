@@ -11,7 +11,7 @@
 A Full Stack Developer with a passion for creating web applications. My expertise lies mainly in backend development, but I also have experience in frontend development. Also, I'm interested in SDET and Data Analytics.
 <br>
 <br>
-👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning C# / .Net Core / Angular<br>⚡ Fun fact I'm a big fan of Marvel Movies
+👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning C# / .Net Core / Angular<br> :new_moon: My website https://ajdinpipo.vercel.app/ <br> ⚡ Fun fact I'm a big fan of Marvel Movies
 
 <br>
 
