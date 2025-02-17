@@ -9,7 +9,7 @@
 A Full Stack Developer with a passion for creating web applications with  .NET Core (ASP.NET Core Web API), Java (Spring Boot), and JavaScript (NestJS and Next.js). A good understanding of working with databases like PostgreSQL, MS SQL, and MongoDB. With experience in SOLID, dependency injection patterns, and microservice architecture, I can design scalable, modular systems. I love challenges and solving problems, learning new things and technologies, and being a helpful team player with good communication skills.
 <br>
 <br>
-👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning C# / .Net Core / Angular<br> :new_moon: My website https://ajdinpipo.vercel.app/ <br> ⚡ Fun fact I'm a big fan of Marvel Movies
+👯 I’m looking to collaborate on interesting projects<br>🌱 <br> :new_moon: My website https://ajdinpipo.vercel.app/ <br> ⚡ Fun fact I'm a big fan of Marvel Movies
 
 <br>
 
