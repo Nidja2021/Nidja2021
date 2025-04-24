@@ -6,7 +6,7 @@
 <h2> Hi, I'm Ajdin Pipo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> / Full Stack Developer </h2>
 
 # 💫 About Me:
-A Full Stack Developer with a passion for creating web applications with  .NET Core (ASP.NET Core Web API), Java (Spring Boot), and JavaScript (NestJS and Next.js). A good understanding of working with databases like PostgreSQL, MS SQL, and MongoDB. With experience in SOLID, dependency injection patterns, and microservice architecture, I can design scalable, modular systems. I love challenges and solving problems, learning new things and technologies, and being a helpful team player with good communication skills.
+A Full Stack Developer with a passion for creating web applications with JavaScript (NestJS and Next.js), Java (Spring Boot), and Python (Django and FastAPI). A good understanding of working with databases like PostgreSQL, MS SQL, and MongoDB. With experience in SOLID, dependency injection patterns, and microservice architecture, I can design scalable, modular systems. I love challenges and solving problems, learning new things and technologies, and being a helpful team player with good communication skills.
 <br>
 <br>
 👯 I’m looking to collaborate on interesting projects<br>🌱 <br> :new_moon: My website https://ajdinpipo.vercel.app/ <br> ⚡ Fun fact I'm a big fan of Marvel Movies
